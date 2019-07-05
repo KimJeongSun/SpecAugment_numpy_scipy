@@ -16,23 +16,21 @@ python3 specaugment.py -i <input file>
 ```
 
 ## Example output
-spectrogram
-
-![spectrogram](./image/spectrum.png)
-
-spectrum_warped
-
-![spectrum_warped](./image/spectrum_warped.png)
-
-spectrum_masked
-
-![spectrum_masked](./image/spectrum_masked.png)
 
 ```
 start to SpecAugment 100 times
 whole processing time : 0.9117 second
 average processing time : 9.12 ms
 ```
+
+original spectrogram
+![spectrogram](./image/spectrum.png)
+
+warped spectrum
+![spectrum_warped](./image/spectrum_warped.png)
+
+warped + masked spectrum
+![spectrum_masked](./image/spectrum_masked.png)
 
 
 ## Reference
