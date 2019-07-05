@@ -18,11 +18,11 @@ python3 specaugment.py -i <input file>
 ## Example output
 
 <p align="center">
-  <img src="https://github.com/" alt="Example result of base spectrogram"/ width=600>
+  <img src="https://github.com/KimJeongSun/SpecAugment_numpy_scipy/blob/master/image/spectrum.png" alt="Example result of spectrogram"/ width=600>
   
-  <img src="https://github.com/" alt="Example result of base spectrogram"/ width=600>
+  <img src="https://github.com/KimJeongSun/SpecAugment_numpy_scipy/blob/master/image/spectrum_warped.png" alt="Example result of warped spectrogram"/ width=600>
   
-  <img src="https://github.com/" alt="Example result of base spectrogram"/ width=600>
+  <img src="https://github.com/KimJeongSun/SpecAugment_numpy_scipy/blob/master/image/spectrum_masked.png" alt="Example result of masked spectrogram"/ width=600>
 </p>
 
 ```
