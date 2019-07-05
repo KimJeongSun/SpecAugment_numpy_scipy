@@ -23,14 +23,14 @@ whole processing time : 0.9117 second
 average processing time : 9.12 ms
 ```
 
-original spectrogram
 ![spectrogram](./image/spectrum.png)
+original spectrogram
 
-warped spectrum
 ![spectrum_warped](./image/spectrum_warped.png)
+warped spectrum
 
-warped + masked spectrum
 ![spectrum_masked](./image/spectrum_masked.png)
+warped + masked spectrum
 
 
 ## Reference
