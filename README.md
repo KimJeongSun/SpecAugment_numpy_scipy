@@ -17,12 +17,15 @@ python3 specaugment.py -i <input file>
 
 ## Example output
 spectrogram
+
 ![spectrogram](./image/spectrum.png)
 
 spectrum_warped
+
 ![spectrum_warped](./image/spectrum_warped.png)
 
 spectrum_masked
+
 ![spectrum_masked](./image/spectrum_masked.png)
 
 ```
