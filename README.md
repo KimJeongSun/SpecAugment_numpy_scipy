@@ -16,19 +16,14 @@ python3 specaugment.py -i <input file>
 ```
 
 ## Example output
+spectrogram
+![spectrogram](./image/spectrum.png)
 
-<p align="center">
-  <img src="https://github.com/KimJeongSun/SpecAugment_numpy_scipy/blob/master/image/spectrum.png" alt="Example result of spectrogram"/ width=300>
-</p>
+spectrum_warped
+![spectrum_warped](./image/spectrum_warped.png)
 
-<p align="center">
-  <img src="https://github.com/KimJeongSun/SpecAugment_numpy_scipy/blob/master/image/spectrum_warped.png" alt="Example result of warped spectrogram"/ width=300>
-</p>
-
-<p align="center">
-  <img src="https://github.com/KimJeongSun/SpecAugment_numpy_scipy/blob/master/image/spectrum_masked.png" alt="Example result of masked spectrogram"/ width=300>
-</p>
-
+spectrum_masked
+![spectrum_masked](./image/spectrum_masked.png)
 
 ```
 start to SpecAugment 100 times
